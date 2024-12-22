@@ -1,0 +1,11 @@
+,Customer_ID,Name,Email,Phone_Number,Address
+0,1,Alice Johnson,alice@example.com,1234567890,"123 Main St, New York, NY, 10001"
+1,2,Bob Smith,bob@example.com,9876543210,"456 Elm St, Chicago, IL, 60601"
+2,3,Charlie Brown,charlie@example.com,5432167890,"789 Pine St, Los Angeles, CA, 90001"
+3,4,Diana Prince,diana@example.com,4321678901,"321 Maple St, Houston, TX, 77001"
+4,5,Eve Black,eve@example.com,3216789012,"654 Oak St, Phoenix, AZ, 85001"
+5,6,Frank White,frank@example.com,2345678901,"987 Cedar St, San Diego, CA, 92101"
+6,7,Grace Green,grace@example.com,8765432109,"111 Birch St, Dallas, TX, 75201"
+7,8,Hank Blue,hank@example.com,7654321098,"222 Willow St, Austin, TX, 73301"
+8,9,Ivy Purple,ivy@example.com,6543210987,"333 Spruce St, Miami, FL, 33101"
+9,10,Jack Red,jack@example.com,5432109876,"444 Cypress St, Boston, MA, 02101"
